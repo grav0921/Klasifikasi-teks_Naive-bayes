@@ -6,6 +6,11 @@ cara menggunakan :
 2. run jupyter python
 3. pilih file dengan format ipynb
 4. run file tekan shift+enter 
+5. pilih file excel data latih dan data uji pada menu file
+6. kemudian proses confusion matrix pilih proses pada menu klasifikasi naive bayes
+7. jika ingin mencoba data uji dengan manual pilih hasil rincian pada menu klasifikasi naive bayes
+8. untuk preprocessing pilih open file preprocessing pilih file excel di folder datamentah
+
 
 requirements<br>
 python versi 3.8.5 atau diatasnya
